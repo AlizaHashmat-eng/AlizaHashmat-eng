@@ -1,8 +1,9 @@
+
+https://aliza9.my.canva.site/aliza-hashmat
+
 ![GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <br><br>
-
-# Hi, I'm Aliza Hashmat! 👋
 
 Welcome to my GitHub profile! I'm a **MERN Stack Developer**, **Content Writer**, and **Project Manager** passionate about building full-stack web applications, creating efficient code, and managing innovative projects. I have experience working with various tools and technologies that help deliver robust solutions. 
 
