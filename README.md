@@ -1,4 +1,6 @@
-[Check out my portfolio](https://aliza9.my.canva.site/aliza-hashmat)
+# Hi, I'm Aliza Hashmat! 👋
+
+[![Aliza GIF](https://github.com/AlizaHashmat-eng/AlizaHashmat-eng/blob/d7132610d073111f320a92795dd1ff1feeb8d1d2/gif%20Aliza.gif)](https://aliza9.my.canva.site/aliza-hashmat)
 
 ![GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
