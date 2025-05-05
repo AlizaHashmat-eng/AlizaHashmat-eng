@@ -6,17 +6,18 @@
 
 <br><br>
 
-Welcome to my GitHub profile! I'm a **MERN Stack Developer**, **Content Writer**, and **Project Manager** passionate about building full-stack web applications, creating efficient code, and managing innovative projects. I have experience working with various tools and technologies that help deliver robust solutions. 
+Welcome to my GitHub profile!
+I'm a Full-Stack MERN Developer, Data Science Enthusiast, Content Writer, and Project Manager passionate about building scalable web applications, analyzing meaningful data, and managing innovative tech projects.
 
-**Quick facts about me:**
-
-- 🎓 I'm a **graduate from Usman Institute of Technology**, where I specialized in **software engineering**.
-- 💻 I'm a **MERN Stack Developer**, currently focusing on **React.js** and **Node.js**, while enhancing my knowledge in **Python**.
-- 🌱 I’m currently exploring the world of **AI-powered platforms**, particularly for **financial risk assessment**, as part of my **Final Year Project**.
-- 👩‍💻 I'm a strong advocate for **open source contributions** and always looking to collaborate with like-minded developers.
-- 📊 Aside from coding, I’m highly skilled in **Project Management**, **SEO**, and **Technical Writing**, which I leverage to create seamless product experiences.
-- 🧠 I love learning new things, and I'm currently diving deep into **CI/CD** with Docker, and OAuth integrations with **Flask**.
-- 🎯 My current goal is to **build innovative solutions** that have real-world applications while contributing to the tech community.
+🔍 Quick facts about me:
+🎓 I'm a Software Engineering graduate from NED University of Engineering and Technology.
+💻 Experienced in MERN Stack Development, currently focused on React.js, Node.js, and expanding my skills in Python.
+📊 Interested in Data Science & Analysis—learning tools like Pandas, NumPy, Matplotlib, and Jupyter Notebooks to generate data-driven insights.
+🌱 Currently working on an AI-powered financial risk assessment platform as part of my Final Year Project.
+👩‍💻 Strong advocate for open-source contributions, community collaboration, and continuous learning.
+✍️ Skilled in Technical Writing, SEO, and Project Management, creating end-to-end digital experiences.
+⚙️ Exploring CI/CD with Docker, API integrations, and OAuth with Flask.
+🎯 On a mission to build real-world tech solutions that make a difference and contribute meaningfully to the global dev community.
 
 ---
 
